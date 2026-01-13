@@ -20,3 +20,8 @@ This tool allows GIS Analysts to perform spatial queries (e.g., *"Find wildfire 
 1. Clone the repo.
 2. Run `pip install -r requirements.txt`.
 3. Launch with `streamlit run app.py`.
+   
+## 📸 Interface Demo
+Below is the "Self-Healing" Agent in action, featuring the dark mode workspace and split-screen layout.
+
+![ArcGIS Copilot Interface](demo.png)
